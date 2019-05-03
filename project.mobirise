@@ -1,0 +1,1560 @@
+{
+  "settings": {
+    "name": "Фотограф Павлова Н.",
+    "currentPage": "sitephoto.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#222222",
+        "#28262b",
+        "#2e2e2e",
+        "#232323",
+        "#b48d4f",
+        "#393535",
+        "#f7f3de"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "uniqCompNum": 26,
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "sitephoto.html": {
+      "settings": {
+        "main": true,
+        "title": "Профессиональная фотосъемка в Санкт-Петербурге",
+        "meta_descr": "Студийная, выездная и street фотосъемка от профессионального фотографа в Санкт-Петербурге. Вам гарантированы качественные снимки и отличное настроение, Заказываейте!",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-5\">ОБО МНЕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\">ПОРТФОЛИО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-a\">ЦЕНЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel: +7-952-202-74-39\">+7-952-202-74-39</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/6iy5r6xbt-126x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">НАДЕЖДА ПАВЛОВА</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1700x1133.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">ЖЕНСКИЙ ПОРТРЕТ</span>",
+          "text": "Профессиональная фотосъемка в Санкт-Петербурге",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header3-b\" data-toolbar=\"-mbrBtnMove\">ПОРТФОЛИО</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-i\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">Рубрики</span>",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c0a375",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-3-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-7-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Love Story",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Love story – красивая история любви, запечатленная на фотографиях. &nbsp;Возможность пережить трогательные моменты, насладиться друг другом и получить отличные кадры на память.<br>",
+          "title2": "Портрет",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Портрет — один из самых распространённых жанров. Фотография несет смысловой и эмоциональный заряд. Передает индивидуальные особенности, неповторимые черты, характер.&nbsp;",
+          "title3": "Семья и дети",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Семейная фотография — это не просто память, это также настроение, чувства, атмосфера, бережно сохраненные для себя и детей. Семейный фотоальбом — это история рода и прекрасная традиция.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-3",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "columnsColor": "#c0a375",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-2-600x900.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-3-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "В ожидании...",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Беременность - важный этап в жизни женщины. В этот период раскрывается вся ее чувственность, нежность и красота. Эти 9 месяцев пролетают очень быстро, важно сохранить о них чудесные воспоминания.",
+          "title2": "На прогулке...",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Хочется ярких впечатлений и взрыва эмоций? Совместите приятное с полезным - фотосессия и прогулка два в одном. Ритмы города или выезд на природу - это останется в вашем фотоальбоме.",
+          "title3": "События",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Праздники, юбилеи, корпоративы, дни рождения, крестины, свадьбы, выпускные балы... &nbsp;Веселые момменты, интересные ракурсы, улыбки на лицах друзей - фотохроника значимых мероприятий",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-4",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#c0a375"
+            }
+          }
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "sun2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "title1": "Студийная съемка",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Профессиональная съемка в специально оборудованной студии.",
+          "title2": "Street- съемка",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Фотосъемка на улицах города, в парковой зоне или на природе.&nbsp;",
+          "title3": "Выездная",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Фотограф выезжает к заказчику на место проведения мероприятия.&nbsp;",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">Обо мне</span>",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c0a375",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1546-2-2-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<br>Я люблю фотографировать людей и делаю это профессионально более 5 лет.&nbsp;Специализируюсь на семейных съемках и женском портрете.&nbsp;<br>Для меня важно \"поймать\" эмоции, подчеркнуть индивидуальность человека, раскрыть его характер и внутренний мир. Поэтому я стараюсь узнать и почувствовать клиента, работаю в спокойной дружественной обстановке, не штампуя стандартные кадры. Делаю акцент на реальные чувства и эмоции...&nbsp;<br>Сотрудничество с визажистами-стилистами позволяет нам подобрать уникальный образ и создать неповторимые кадры для каждого клиента.&nbsp;<br>Провожу студийные, уличные, а также выездные фотосъемки. Имею все необходимое для этого оборудование. \n<br><br>НАДЕЖДА ПАВЛОВА, фотограф<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-6",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">Портфолио</span>",
+          "meta": "&nbsp;",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-1000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1000x1500-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "В ожидании",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "В ожидании",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/8-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/9-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/10-1700x1133.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-1700x1133-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Семья и дети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/11-1700x1133.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-1700x1133-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Семья и дети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/12-1700x1133.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-1700x1133-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Семья и дети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/13-1700x1134.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-1700x1134-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Семья и дети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/14-1700x1133.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-1700x1133-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Семья и дети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/15-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "В ожидании",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16-1700x1133.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-1700x1133-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/17-1000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17-1000x1500-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Love Story",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/18-682x1023.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18-682x1023-682x1023.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/19-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Love Story",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20-1000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20-1000x1500-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Семья и дети",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/21-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/21-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "В ожидании",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/22-1000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22-1000x1500-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "В ожидании",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/23-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "В ожидании",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24-1133x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-1133x1700-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/25-1000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-1000x1500-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/26-1000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-1000x1500-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/27-1000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/27-1000x1500-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/28-1000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-1000x1500-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/29-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/30-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/30-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/31-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/31-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/32-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/32-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/33-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/33-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Love Story",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/34-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/34-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/35-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/35-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "На прогулке",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/36-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/36-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "В ожидании",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/37-1900x1267.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/37-1900x1267-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/38-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/38-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/39-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/39-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "В ожидании",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/40-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/40-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Портрет",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/41-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/41-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Love Story",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/42-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/42-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Love Story",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/43-1500x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/43-1500x1000-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Love Story",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/44-1280x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/44-1280x853-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "articleLayout": false,
+          "allItem": "Все",
+          "_name": "gallery4",
+          "_anchor": "gallery4-7"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-price-figure": {
+              "font-size": "48px"
+            },
+            ".mbr-plan-title": {
+              "font-size": "17px"
+            },
+            ".mbr-plan-subtitle": {
+              "font-size": "15px",
+              "color": "#28262b"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#28262b",
+              "font-size": "16px"
+            },
+            ".mbr-plan-label": {
+              "font-size": "24px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-plan-label B": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "bg-primary",
+            "fourthType": "",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "Продолжительность 1 час",
+          "description2": "Продолжительность 1 час",
+          "description3": "Продолжительность 1 час",
+          "description4": "Индивидуальные условия",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТь</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТь</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-i\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "title": "<span style=\"font-weight: normal;\">Цены</span>",
+          "subtitle": "&nbsp;Выберите интересующий Вас пакет услуг<br>",
+          "title1": "ПРОГУЛКА",
+          "title2": "СТУДИЯ",
+          "title3": "ВСЕ ВКЛЮЧЕНО",
+          "title4": "СЕРТИФИКАТ",
+          "subtitle1": "Фотосессия в парке, на улицах города, в кафе или торговых центрах",
+          "subtitle2": "Фотосессия в профессиональной студии<br><br>",
+          "subtitle3": "Фотосессия в профессиональной студии<br><br>",
+          "subtitle4": "Подарочный сертификат на профессиональную фотосъемку",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "<font face=\"Merriweather, serif\"><b>!</b></font>",
+          "label4": "HOT!",
+          "currency1": "руб.",
+          "currency2": "руб.",
+          "currency3": "руб.",
+          "currency4": "<br>руб.",
+          "price1": "3000",
+          "price2": "4500",
+          "price3": "6500",
+          "price4": "4000",
+          "period1": "&nbsp;",
+          "period2": "&nbsp;&nbsp;",
+          "period3": "&nbsp;",
+          "period4": "&nbsp;",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">подбор стиля съемки</li><li class=\"list-group-item\">подбор места съемки</li><li class=\"list-group-item\">от 50 обработанных фото&nbsp;</li><li class=\"list-group-item\">20 рабочих дней\n</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">подбор стиля съемки</li><li class=\"list-group-item\">аренда студии</li><li class=\"list-group-item\">от 50 обработанных фото&nbsp;</li><li class=\"list-group-item\">20 рабочих дней</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">подбор стиля съемки</li><li class=\"list-group-item\">аренда студии</li><li class=\"list-group-item\">макияж и укладка для одного участника</li><li class=\"list-group-item\">от 50 обработанных фото&nbsp;</li><li class=\"list-group-item\">20 рабочих дней</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">дизайн сертификата</li><li class=\"list-group-item\">любая съемка</li><li class=\"list-group-item\">изготовление в течении несколько часов</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">Вы хотите заказать фотосъемку</span>",
+          "subtitle": "или задать дополнительные вопросы ?",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">СВЯЖИТЕСЬ СО МНОЙ</a>",
+          "form": {
+            "action": "e.v.lubimova@mail.ru",
+            "alerts": {
+              "success": "Спасибо, что обратились ко мне!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Введите ваше имя"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Введите номер телефона"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Ваш вопрос"
+              }
+            }
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-i",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-size": "30px",
+              "color": "#7c706b"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": false,
+            "count": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/un0lctbscbi-1280x853.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#c0a375",
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">Отзывы клиентов</span>",
+          "subtitle": "&nbsp;",
+          "testimonial": [
+            {
+              "authorName": "Мария П.",
+              "authorBio": "&nbsp;",
+              "text": "<p>“Надежда прекрасный фотограф, мастер своего дела и замечательный человек! Всё проходит в непринуждённой обстановке, было очень комфортно. Снимки получились необыкновенные! Спасибо за проделанную работу!!!”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/hgbr59fvxhu-2-107x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Катерина С.",
+              "authorBio": "&nbsp;",
+              "text": "<p>“Хочется сказать спасибо Надежде за умение увидеть кадр и общение на площадке. Ведь именно из этого складывается итоговая картинка. Фотографировались несколько раз, и Надя никогда не подводила. А летом спонтанно побежали фотографироваться на залив, и фото получились солнечными и летними :))) Успехов, разивития и благодарных клиентов тебе”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/crjcvbvsr2c-3-121x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Маргарита О.",
+              "authorBio": "&nbsp;",
+              "text": "<p>“Спасибо Надежде за прекрасные фото в сирени... </p><p>Быстро, ярко, сочно и с большой самоотдачей... раскрыла задумку полностью... очень довольна... и фото скинула быстро..&nbsp;\r</p><p><span style=\"font-size: 1.125rem;\">Настоящий профи”</span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/synvna-vcd8-160x107.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-p",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c0a375",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/photographer-silhouette-png-7-128x181.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<b>фотограф </b><br><b>Павлова Надежда&nbsp;</b><strong><br></strong><br>Санкт-Петербург&nbsp;",
+          "text2": "<strong><br></strong><strong>Контакты</strong><br><br>napa_218@mail.ru<br>+ 7-952-202-74-39<br>",
+          "text3": "<b><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\">&nbsp;Ссылки</span></font><br><br></b><br><b><a href=\"https://vk.com/nadezda_parshkova\" target=\"_blank\" class=\"text-black\">ВКонтакте</a><br>&nbsp;<br>&nbsp;</b>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-m",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#000000"
+            },
+            "B": {
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 by <a href=\"https://webartspb.ru\" target=\"_blank\">WebArtSpb</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-n"
+        }
+      ]
+    }
+  }
+}
